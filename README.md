@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/carltrepanier"><img src="https://api.daily.dev/devcards/8bee9f8f20dd46f29dd235fd06e3bbd8.png?r=cqs" width="400" alt="Carl Trepanier's Dev Card"/></a>
+
 <!--
 **At0micTurtle/At0micTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
