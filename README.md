@@ -1,6 +1,6 @@
 ### Hello there 👋
-
-Web developer full stack MERN (MongoDB, Express.js, React.js, Next.js)
+Welcome on my Github!
+I'm a web developer full stack MERN (MongoDB, Express.js, React.js, Next.js)
 
 <a href="https://app.daily.dev/carltrepanier"><img src="https://github.com/At0micTurtle/At0micTurtle/blob/main/devcard.svg" width="400" alt="Carl Trepanier's Dev Card"/></a>
 
