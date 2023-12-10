@@ -1,6 +1,6 @@
 ### Hello there 👋
 <h1>Welcome on my Github!</h1>
-<p>I'm Carl and I'm a web developer full stack MERN (MongoDB, Express.js, React.js, Next.js)</p>
+<p>I'm Carl and I'm a web developer full stack MERN (MongoDB, Express.js, React.js, Node.js)</p>
 
 <a href="https://app.daily.dev/carltrepanier"><img src="https://github.com/At0micTurtle/At0micTurtle/blob/main/devcard.svg" width="400" alt="Carl Trepanier's Dev Card"/></a>
 
